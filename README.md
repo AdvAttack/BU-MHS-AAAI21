@@ -18,7 +18,7 @@ This repository contains Keras implementations of the paper: Bigram and Unigram 
 
 ## Usage
 
-* Download [IMDB](https://drive.google.com/file/d/193BhcxN0fxClJl9xZyNaLhg5COc4lN4R/view?usp=sharing), [AG's News](https://drive.google.com/file/d/1cySABH3juxFB-YVRe-EK10yjnDS2Nl4F/view?usp=sharing) and [Yahoo! Answer](https://drive.google.com/file/d/1qvMfiB5vUSwR7lcAoPzXaEHtrIO9oaV1/view?usp=sharing) datasets and place them in `/data_set`.
+* Download IMDB, AG's News and Yahoo! Answer datasets from [Google Drive](https://drive.google.com/drive/folders/1uvIYFvP21_YpAojuJ_UJ3CfWIq6DdDwr?usp=sharing) and place them in `/data_set`.
 * Download `glove.6B.100d.txt`from [google drive](https://drive.google.com/file/d/1eUV5XW-B0CKRAyHsnp89cHc-s0psRot-/view?usp=sharing) and place the file in `/`.
 * Use our pretrained model stored in `/runs` or train models by running `training.py`.
 * Run `bigram.py` to generate bigram candidates or use the prelearnd bigram data in `/bigram`.
