@@ -33,7 +33,7 @@ When using this code, or the ideas of BU-MHS, please cite the following paper
 <pre><code>@inproceedings{yang2021bigram,
   title={Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search},
   author={Xinghao Yang and Weifeng Liu and James Bailey and Dacheng Tao and Wei Liu},
-  booktitle={Proceedings of the 35-th AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence},
   year={2021}
 }
 </code></pre>
