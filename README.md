@@ -33,7 +33,7 @@ This repository contains Keras implementations of the AAAI-21 paper: Bigram and 
 <pre><code>@inproceedings{yang2021bigram,
   title={Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search},
   author={Xinghao Yang and Weifeng Liu and James Bailey and Dacheng Tao and Wei Liu},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the 35th AAAI Conference on Artificial Intelligence},
   year={2021}
 }
 </code></pre>
