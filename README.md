@@ -1,4 +1,4 @@
-# Bigram and Unigram based Monotonic Heuristic Search (BU-MHS)
+# BU-MHS-AAAI21
 
 This repository contains Keras implementations of the AAAI-21 paper: Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search.
 <p align="center">
