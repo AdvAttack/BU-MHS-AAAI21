@@ -29,17 +29,11 @@ This repository contains Keras implementations of the AAAI-21 paper: Bigram and 
 
 ## Citation
 
-@inproceedings{yang2021bigram,
+
+<pre><code>@inproceedings{yang2021bigram,
   title={Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search},
   author={Xinghao Yang and Weifeng Liu and James Bailey and Dacheng Tao and Wei Liu},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2021}
 }
-<pre><code>@INPROCEEDINGS{Verma0ZL19ijcai19,
- author = {Sunny Verma and Chen Wang and Liming Zhu and Wei Liu},
- title = DeepCU: Integrating both Common and Unique Latent Information for Multimodal Sentiment Analysis},
- booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI} Macao},
- pages     = {3627--3634},
- year      = {2019},
- }
 </code></pre>
