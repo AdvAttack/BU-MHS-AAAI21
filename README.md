@@ -27,3 +27,10 @@ This repository contains Keras implementations of the AAAI-21 paper: Bigram and 
 * Run `BU-MHS_fool.py` to generate adversarial examples using BU-MHS.
 * If you want to train or fool different models, reset the argument in `training.py`and`fool.py`.
 
+## Citation
+@inproceedings{yang2021bigram,
+  title={Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search},
+  author={Xinghao Yang and Weifeng Liu and James Bailey and Dacheng Tao and Wei Liu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2021}
+}
