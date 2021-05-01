@@ -1,6 +1,6 @@
 # Bigram and Unigram based Monotonic Heuristic Search (BU-MHS)
 
-This repository contains Keras implementations of the paper: Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search.
+This repository contains Keras implementations of the AAAI-21 paper: Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search.
 
 
 
@@ -25,3 +25,4 @@ This repository contains Keras implementations of the paper: Bigram and Unigram 
 * To ensure the quick reproducibility, we provide HowNet candidate in [google drive](https://drive.google.com/drive/folders/18b_opVai9igJMze4h_Ip0wewuW2czuRi?usp=sharing). To recalculate the HowNet candidate set, run `build_embeddings.py`, `gen_pos_tag.py`, `lemma.py` and `gen_candidates.py` under the `/hownet_candidates` for each dataset.
 * Run `BU-MHS_fool.py` to generate adversarial examples using BU-MHS.
 * If you want to train or fool different models, reset the argument in `training.py`and`fool.py`.
+
