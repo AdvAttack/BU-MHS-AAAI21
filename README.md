@@ -2,7 +2,7 @@
 
 This repository contains Keras implementations of the AAAI-21 paper: Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search.
 
-<img src="https://github.com/AdvAttack/BU-MHS-AAAI21/blob/master/image/fig-flowchart.png" width=50% height=50%>
+<img src="https://github.com/AdvAttack/BU-MHS-AAAI21/blob/master/image/fig-flowchart.png" width=80% height=80%>
 
 
 ## Requirements
